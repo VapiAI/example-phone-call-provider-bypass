@@ -61,9 +61,3 @@ To make your local server accessible over the internet, you can use ngrok. Follo
 
 1. **Assistant ID**: After creating an assistant in the VAPI Dashboard, you will receive an assistant ID. Use this ID in your configurations.
 2. **Phone Number ID**: Purchase a Twilio phone number. The ID of this phone number can be used for your purposes.
-
-## Conclusion
-
-This sample project demonstrates how to integrate a custom language model with Vapi. By following these steps, developers can create a more versatile and responsive voice assistant tailored to their users' unique needs.
-
-For more help and detailed documentation, please refer to the official [Vapi documentation](https://docs.vapi.ai/).
